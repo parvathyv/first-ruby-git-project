@@ -8,7 +8,12 @@ body {
 
 }
 
-.main{
+.form_input{
+  color:black;
+  font-size:1em;
+}
+
+.output{
   color:black;
   font-size:1em;
 }
