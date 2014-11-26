@@ -2,7 +2,7 @@ require 'sinatra'
 require 'pry'
 require 'nokogiri'
 require 'open-uri'
-
+# parsing wiki
 
 def get_parse_html
     
